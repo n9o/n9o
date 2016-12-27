@@ -1,2 +1,4 @@
 name: n9o.github.io
 markdown: kramdown
+gems:
+  - jekyll-sitemap
